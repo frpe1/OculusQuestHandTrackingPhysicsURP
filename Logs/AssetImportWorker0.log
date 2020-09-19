@@ -1,0 +1,218 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '2020.2.0b2 (90b2443a8df1) revision 9482820'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 32673 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\utopiafx\Documents\unity3d\2020.2.0b2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/utopiafx/Documents/unity3d/projects/EXTERNA/OculusQuestHandTrackingPhysicsURP
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55236
+Successfully changed project path to: C:/Users/utopiafx/Documents/unity3d/projects/EXTERNA/OculusQuestHandTrackingPhysicsURP
+C:/Users/utopiafx/Documents/unity3d/projects/EXTERNA/OculusQuestHandTrackingPhysicsURP
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 85.27 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.76 ms.
+Initialize engine version: 2020.2.0b2 (90b2443a8df1)
+[Subsystems] Discovering subsystems at path C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/utopiafx/Documents/unity3d/projects/EXTERNA/OculusQuestHandTrackingPhysicsURP/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f07)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.5206
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56900
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002536 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 69.16 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.592 seconds
+Registering precompiled user dll's ...
+Registered in 0.118805 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 76.80 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.52.0
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.39 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 3504 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.8 MB.
+System memory in use after: 154.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3927.
+Total: 2.991800 ms (FindLiveObjects: 0.817000 ms CreateObjectMapping: 0.087700 ms MarkObjects: 2.000400 ms  DeleteObjects: 0.085700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/VFXPixels.unity
+  artifactKey: Guid(7adc0f31b1e6f4474a056d83a8025228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VFXPixels.unity using Guid(7adc0f31b1e6f4474a056d83a8025228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffadfceb139700cfc58a30b8cee74c8c') in 0.013127 seconds
+  Import took 0.020106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.703643 seconds.
+  path: Assets/Scenes/VFX.unity
+  artifactKey: Guid(26eb963ae765648b1a925158efb816bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VFX.unity using Guid(26eb963ae765648b1a925158efb816bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83340110650a9bf9e45c115e991193eb') in 0.006265 seconds
+  Import took 0.012828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.551496 seconds.
+  path: Assets/Scenes/HandTrackingWithHingeJoints.unity
+  artifactKey: Guid(c6800c8c5024b49eebd5494c7597ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/HandTrackingWithHingeJoints.unity using Guid(c6800c8c5024b49eebd5494c7597ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b29aba82bfe436d72ed475852c65bc') in 0.007537 seconds
+  Import took 0.014104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.657366 seconds.
+  path: Assets/Scenes/Buttons.unity
+  artifactKey: Guid(dcb9ba29274e343858a5d1cb48795a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Buttons.unity using Guid(dcb9ba29274e343858a5d1cb48795a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1aa73c80d78557ef567e325bc1013a') in 0.006690 seconds
+  Import took 0.013628 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Users/utopiafx/Documents/unity3d/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001995 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 74.00 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Registering precompiled user dll's ...
+Registered in 0.113234 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 80 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3979.
+Total: 2.527600 ms (FindLiveObjects: 0.544100 ms CreateObjectMapping: 0.082300 ms MarkObjects: 1.832600 ms  DeleteObjects: 0.067500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1609.211221 seconds.
+  path: Assets/Scenes/Effects
+  artifactKey: Guid(037a8499d44a6413381a2f86df59dcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Effects using Guid(037a8499d44a6413381a2f86df59dcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c90b2df2fb90a7f8df2df0ca217a396') in 0.007839 seconds
+  Import took 0.014665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.607954 seconds.
+  path: Assets/Scenes/Effects/CenterEyeAnchor Profile.asset
+  artifactKey: Guid(5beb3d30cba2e4b0c953ac792ace580e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Effects/CenterEyeAnchor Profile.asset using Guid(5beb3d30cba2e4b0c953ac792ace580e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b968d25bf6792a471fc5434dc3468ad0') in 0.034875 seconds
+  Import took 0.041445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.591100 seconds.
+  path: Assets/Scenes/Effects.unity
+  artifactKey: Guid(f68da384bcbb347e9864d40c62c4d025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Effects.unity using Guid(f68da384bcbb347e9864d40c62c4d025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4404c6db80c8fb87ac5ae771b958ff98') in 0.006396 seconds
+  Import took 0.012765 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
